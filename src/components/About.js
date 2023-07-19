@@ -9,4 +9,4 @@ function About({ about, image = "https://via.placeholder.com/215" }) {
   );
 }
 
-export default About;  // Add this line to export the component
+export default About;  
